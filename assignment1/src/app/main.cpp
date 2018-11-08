@@ -9,6 +9,9 @@
 #include <cmath>
 #include <glm/glm.hpp>
 
+
+
+
 class Vec {        // Usage: time ./smallpt 5000 && xv image.ppm
 public:
     double x, y, z;                  // position, also color (r,g,b)
